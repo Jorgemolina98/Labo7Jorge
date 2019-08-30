@@ -1,0 +1,25 @@
+{
+  "name": "labo7jorge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependecies": {
+    "express": "4.17.1 "
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorgemolina98/Labo7Jorge.git"
+  },
+  "author": "Jorge molina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorgemolina98/Labo7Jorge/issues"
+  },
+  "homepage": "https://github.com/Jorgemolina98/Labo7Jorge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
