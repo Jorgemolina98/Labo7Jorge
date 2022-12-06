@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Jorgemolina98/Labo7Jorge#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "heroku": "^7.29.0",
     "toolbelt": "^0.1.7"
   }
